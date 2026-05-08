@@ -1,4 +1,4 @@
-# Mbuyu-Watatu-Web-design-developmant
+# Mbuyu-Watatu-Web-design-development
 Official web design and development repository for Mbuyu Watatu Resort. Includes frontend development, responsive UI/UX design, booking integrations, SEO optimization, performance improvements, and digital marketing assets for the resort website.
 
 # Mbuyu Watatu Resort Website
