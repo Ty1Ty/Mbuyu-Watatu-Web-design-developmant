@@ -5,12 +5,11 @@ Official web design and development repository for Mbuyu Watatu Resort. Includes
 
 A modern hospitality website designed and developed for Mbuyu Watatu Resort located in Shimoni, Kenya.
 
-## Live Website
-https://mbuyuwatatu.com
+**Live Site:** [mbuyuwatatu.com](https://mbuyuwatatu.com)
 
 ## Project Overview
 
-This project focuses on building a responsive, visually appealing, and high-performance tourism and hospitality website that improves online bookings, international customer engagement, and digital visibility.
+Mbuyu Watatu is a glamping and camping resort. This repository documents the full digital build of their website — from design and development through to SEO and content strategy. That improves online bookings, international customer engagement, and digital visibility.
 
 ## Features
 
@@ -56,17 +55,21 @@ This project focuses on building a responsive, visually appealing, and high-perf
 ## Project Goals
 
 - Increase resort visibility online
-- Improve booking conversions
 - Enhance user experience
 - Support digital marketing campaigns
+- Implement local SEO strategy targeting glamping and camping searches in Kenya
+- Mobile-first design approach given the dominance of mobile users in the Kenyan market
+- Structured content to drive bookings and inquiries
 
-## Author
+## About Me
 
-Tyrone John
+**Tyrone John** – Aspiring Data Analyst & Web Developer based in Nairobi, Kenya
 
-- Web Designer & Developer
-- Nairobi, Kenya
-- Email: tyronejohn001@gmail.com
+I specialize in the hospitality and tourism digital space, combining hands-on web development with data analytics to drive real business results.
+
+- Email - tyronejohn001@gmail.com
+- 🔗 [MWH Data Analysis Project](https://github.com/Ty1Ty/MWH)
+
 
 - ## Resort Contact
 
